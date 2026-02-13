@@ -1,0 +1,7 @@
+{
+  "name": "AR Smart Retail - Visionary Furniture",
+  "description": "A high-end AR-enabled furniture e-commerce platform with 3D product visualization, real-time AI assistance, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
