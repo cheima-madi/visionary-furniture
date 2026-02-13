@@ -1,0 +1,1 @@
+import{j as e}from"./index-BlN0pGCN.js";const s=()=>e.jsxs("div",{className:"p-6",children:[e.jsx("h1",{className:"text-2xl font-bold mb-4",children:"Order Management"}),e.jsx("p",{children:"Manage customer orders here. Feature coming soon."})]});export{s as default};
